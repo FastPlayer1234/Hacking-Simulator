@@ -3,7 +3,6 @@
 #------------------------
 
 # packages:
-import os
 import time
 
 # vars:
